@@ -8,7 +8,7 @@ description: How to make custom DSi and 3DS skins for TWiLight Menu++
 ---
 
 Making skins for TWiLight Menu++ requires an image editor capable of exporting `.png` files, 16 <abbr title="Bits Per Pixel">BPP</abbr> `.bmp`/`.png` files, and 4 BPP `.bmp` files. Ideally, it should also be able to manually rearrange image palettes.
-[GIMP](https://www.gimp.org) is recommended and will be used for this guide, but any editor with these capabilities should work. For paletted images, GIMP has a toggleable Colormap Dialog window. Enable it via `Windows` -> `Dockable Dialogs` -> `Colormap`
+[GIMP](https://www.gimp.org) is recommended and will be used for this guide, but any editor with these capabilities should work. For paletted images, GIMP has a toggleable Colormap Dialog window. Enable it via `Windows` -> `Dockable Dialogs` -> `Colormap`.
 
 ## Part 1: Download the examples
 The first thing you should do is download the [example skins](/assets/files/skin-examples.zip). These can be used as a base for your skin and are already in the correct format, so if you have issues later on, you can compare with these.
