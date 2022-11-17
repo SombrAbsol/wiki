@@ -65,7 +65,7 @@ Indexed Images requires an exact count of 16 colors, with the first of which (#0
 **Note:** Some images in the DSi theme have their palettes overridden based on the user's profile color. If editing the colors of these ensure that the `UserPalette` option for it in the `theme.ini` is set to `0`.
 
 - When switching to indexed, ensure that `Generate optimum palette` is checked
-- When exporting, it's recommended to check the `Do not write color space information` box under the `Compatibility Options` dropdown.
+- When exporting, it's recommended to check the `Do not write color space information` box under the `Compatibility Options` dropdown
 
 | Texture       | Description                                                                                     |
 | ------------- | ----------------------------------------------------------------------------------------------- |
